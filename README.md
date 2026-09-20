@@ -100,4 +100,4 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 A personal cinema journey, crafted by DAX SANANDIYA
 
-© 2026 DAX SANANDIYA · v1.0.0
+© 2026 DAX SANANDIYA · v1.0.1
