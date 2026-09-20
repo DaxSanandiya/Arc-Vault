@@ -1,6 +1,6 @@
 # ARCVAULT
 
-A personal cinema journey, crafted by DAX SANANDIYA.
+A personal cinema journey, crafted by DAX SANANDIYA .
 
 ## Overview
 
